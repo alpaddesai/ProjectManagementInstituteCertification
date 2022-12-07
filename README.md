@@ -12,4 +12,6 @@ Provides an overview of the CAPM certificate
 
 ![image](ProjectSchedule.png)
 
+![image](CAPMCertificate.jpg)
+
 Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement2022
