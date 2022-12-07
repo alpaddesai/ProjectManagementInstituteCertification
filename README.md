@@ -6,10 +6,13 @@ Provides an overview of the CAPM certificate
 
 ![image](CAPMCertificate.jpg)
 
+## Smart homes for the elderly
 ![image](HealthCareDatabase1.jpg)
 
+## Smart homes for the elderly
 ![image](HealthCareDatabase2.jpg)
 
+## Smart homes for the elderly
 ![image](HealthCareDatabase3.jpg)
 
 ![image](ProjectSchedule.png)
