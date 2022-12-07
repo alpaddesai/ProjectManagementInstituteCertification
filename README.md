@@ -4,6 +4,8 @@ Provides an overview of the CAPM certificate
 
 ![image](PMI_CAPM.jpg)
 
+![image](CAPMCertificate.jpg)
+
 ![image](HealthCareDatabase1.jpg)
 
 ![image](HealthCareDatabase2.jpg)
@@ -11,7 +13,5 @@ Provides an overview of the CAPM certificate
 ![image](HealthCareDatabase3.jpg)
 
 ![image](ProjectSchedule.png)
-
-![image](CAPMCertificate.jpg)
 
 Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement2022
