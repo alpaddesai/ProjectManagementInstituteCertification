@@ -1,0 +1,13 @@
+﻿<Window x:Class="ProjectManagementCertification.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectManagementCertification"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="737" Width="1167">
+    <Grid Margin="0,0,71,37">
+        <Image Margin="12,9,-62,-28" Source="/PMI_CAPM.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window>
