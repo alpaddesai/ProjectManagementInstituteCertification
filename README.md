@@ -17,4 +17,23 @@ Provides an overview of the CAPM certificate
 
 ![image](ProjectSchedule.png)
 
+![image](ProjectTracking.jpg)
+
+![image](ChangeManagementProcessI.JPG)
+
+![image](ChangeManagementProcessII.JPG)
+
+![image](ChangeManagementProcessIII.JPG)
+
+![image](ChangeManagementProcessIV.JPG)
+
+## Java project
+![image](JavaProject1.png)
+
+## Java project resource allocation
+![image](ResourceAllocationVacation.jpg)
+
+## Java project 
+![image](resourceAllocationSocialEngagements.jpg)
+
 Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement
