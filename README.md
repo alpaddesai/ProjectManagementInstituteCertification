@@ -19,13 +19,13 @@ Provides an overview of the CAPM certificate
 
 ![image](ProjectTracking.jpg)
 
-![image](ChangeManagementProcessI.JPG)
+![image](ChangeManagementProcessI.jpg)
 
-![image](ChangeManagementProcessII.JPG)
+![image](ChangeManagementProcessII.jpg)
 
-![image](ChangeManagementProcessIII.JPG)
+![image](ChangeManagementProcessIII.jpg)
 
-![image](ChangeManagementProcessIV.JPG)
+![image](ChangeManagementProcessIV.jpg)
 
 ## Java project
 ![image](JavaProject1.png)
