@@ -36,4 +36,4 @@ Provides an overview of the CAPM certificate
 ## Java project 
 ![image](resourceAllocationSocialEngagements.jpg)
 
-Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement
+Additional details reference https://github.com/alpaddesai/IndividualInternationalLuxurySightSeeing
