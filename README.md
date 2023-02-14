@@ -36,4 +36,4 @@ Provides an overview of the CAPM certificate
 ## Java project 
 ![image](resourceAllocationSocialEngagements.jpg)
 
-Additional details reference https://github.com/alpaddesai/GraduateDegrees
+Additional details reference https://github.com/alpaddesai/ProgramManagement, https://github.com/alpaddesai/SystemsEngineering and https://github.com/alpaddesai/GraduateDegrees 
