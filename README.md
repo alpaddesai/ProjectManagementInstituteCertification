@@ -8,6 +8,7 @@ Provides an overview of the CAPM certificate
 • Winner of McCallum Graduate School of Business Leadership Scholarship Award 2008–2009 
 • Received “SWE Outstanding Student award 2004-2005” Society of Women Engineers
 
+## CAPM certificate
 ![image](PMI_CAPM.jpg)
 
 ![image](CAPMCertificate.jpg)
