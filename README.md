@@ -6,4 +6,4 @@ Provides an overview of the CAPM certificate
 
 ![image](CAPMCertificate.jpg)
 
-Additional details reference https://github.com/alpaddesai/GraduateDegrees 
+Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement
