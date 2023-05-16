@@ -14,6 +14,6 @@ Provides an overview of the CAPM certificate
 ![image](CAPMCertificate.jpg)
 
 ### practice test
-![image] (CAPMpracticetestI.jpg)
+![image](CAPMpracticetestI.jpg)
 
 Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement
